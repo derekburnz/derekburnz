@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **CSS/HTMl/Node.js**
 
-- 💬 Ask me about **Networking, Scripting**
+- 💬 Ask me about **Networking, DevOps**
 
 - 📫 How to reach me **derekburns@cmail.carleton.ca**
 
