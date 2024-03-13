@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![MasterHead](https://i.ibb.co/ZxmLDzn/a828bb36-4d57-4071-b66e-2edd63923f7b-1.jpg)
 <h1 align="center">Hi 👋, I'm Derek Burns</h1>
 <h3 align="center">A passionate Networking/DevOps Engineer from Ottawa, ON</h3>
 
