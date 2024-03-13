@@ -1,7 +1,6 @@
-![MasterHead](https://i.ibb.co/ZxmLDzn/a828bb36-4d57-4071-b66e-2edd63923f7b-1.jpg)
+![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 <h1 align="center">Hi 👋, I'm Derek Burns</h1>
 <h3 align="center">A passionate Networking/DevOps Engineer from Ottawa, ON</h3>
-<img allign="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **CSS/HTMl/Node.js**
 
