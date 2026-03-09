@@ -1,4 +1,3 @@
-![MasterHead]()
 <h1 align="center">Hi 👋, I'm Derek Burns</h1>
 <h3 align="center">A passionate Networking/DevOps Engineer from Ottawa, ON</h3>
 
