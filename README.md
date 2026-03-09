@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/ZxmLDzn/a828bb36-4d57-4071-b66e-2edd63923f7b-1.jpg)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Derek Burns</h1>
 <h3 align="center">A passionate Networking/DevOps Engineer from Ottawa, ON</h3>
 
