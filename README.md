@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Derek Burns</h1>
 <h3 align="center">A passionate Networking Student from Ottawa, ON</h3>
 
-- 🌱 I’m currently learning **CSS/HTMl/Node.js**
+- 🌱 I’m currently working on **Spotify playlist randomizer**
 
 - 💬 Ask me about **Networking/DevOps**
 
