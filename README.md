@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Networking/DevOps**
 
-- 📫 How to reach me **derekburns@cmail.carleton.ca**
+- 📫 How to reach me **257335.burns@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
