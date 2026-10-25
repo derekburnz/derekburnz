@@ -29,6 +29,7 @@ I build FairShuffle with [Claude Code](https://claude.com/claude-code) as an AI 
 
 | Project | What it is | Language |
 |---------|------------|----------|
+| [Network performance prediction GNN](https://github.com/derekburnz/Network-Performance-Prediction-GNN) | Team course project (NET3006A): a graph neural network based on RouteNet-Fermi that predicts per-flow delay in packet-switched networks, with 9.72% error on unseen 240-node topologies | Python, PyTorch |
 | [DHCPServer](https://github.com/derekburnz/DHCPServer) | Emulates the basics of a DHCP server: IP offer, release, lease time check and renewal | Python |
 | [Docker word guessing game](https://github.com/derekburnz/Docker-Containerized-WordGuessing-Game) | A small game used to practise containerizing code and running it on Docker | Python |
 | [Windows 10 context menu script](https://github.com/derekburnz/Windows-10-Context-menu-script) | Restores the Windows 10 right-click menu on Windows 11 | Batch |
@@ -38,6 +39,7 @@ I build FairShuffle with [Claude Code](https://claude.com/claude-code) as an AI 
 
 **Networking:** routing, switching, BGP, MPLS, enterprise IT administration<br>
 **Languages:** Python, JavaScript, Batch<br>
+**Machine learning:** PyTorch, graph neural networks<br>
 **DevOps and tools:** Git, GitHub Actions, Docker, uv, pre-commit<br>
 **AI-assisted engineering:** Claude Code, subagents, skills, hooks, MCP servers
 
