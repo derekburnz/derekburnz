@@ -1,6 +1,6 @@
 # Derek Burns
 
-Fourth-year Bachelor of Information Technology (Networking) student at Carleton University in Ottawa, Ontario, graduating April 2028. My background is network infrastructure: routing, switching, BGP, MPLS and enterprise IT administration. I bring that same discipline to software, with a focus on automation, DevOps practice, secure design and AI-assisted engineering.
+Fourth-year Bachelor of Information Technology (Networking) student at Carleton University in Ottawa, Ontario, graduating April 2028.
 
 **Looking for co-op roles for Winter 2027 (January) and Summer 2027** in Linux, DevOps, networking, software engineering or software development.
 
