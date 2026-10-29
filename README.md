@@ -25,16 +25,6 @@ I build FairShuffle with [Claude Code](https://claude.com/claude-code) as an AI 
 - **MCP connectors and remote control.** The agent works with GitHub through the GitHub MCP server and runs tests on my Windows PC through Remote Control.
 - **Human in the loop.** I make every design decision. The agent brings options with a recommendation, and over 80 decisions are logged in [`DECISIONS.md`](https://github.com/derekburnz/fairshuffle/blob/main/docs/planning/DECISIONS.md).
 
-## Earlier projects
-
-| Project | What it is | Language |
-|---------|------------|----------|
-| [Network performance prediction GNN](https://github.com/derekburnz/Network-Performance-Prediction-GNN) | Team course project (NET3006A): a graph neural network based on RouteNet-Fermi that predicts per-flow delay in packet-switched networks, with 9.72% error on unseen 240-node topologies | Python, PyTorch |
-| [DHCPServer](https://github.com/derekburnz/DHCPServer) | Emulates the basics of a DHCP server: IP offer, release, lease time check and renewal | Python |
-| [Docker word guessing game](https://github.com/derekburnz/Docker-Containerized-WordGuessing-Game) | A small game used to practise containerizing code and running it on Docker | Python |
-| [Windows 10 context menu script](https://github.com/derekburnz/Windows-10-Context-menu-script) | Restores the Windows 10 right-click menu on Windows 11 | Batch |
-| [BitcoinConverter](https://github.com/derekburnz/BitcoinConverter) | Bitcoin price lookup in USD, GBP and EUR | Python |
-
 ## Skills
 
 **Networking:** routing, switching, BGP, MPLS, enterprise IT administration<br>
